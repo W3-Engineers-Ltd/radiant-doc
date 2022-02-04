@@ -73,7 +73,7 @@ Go to the path of the newly created project and enter `radical run` to compile a
 	2015/05/02 12:01:36 [INFO] ./quickstart is running...
 	2015/05/02 12:01:38 [app.go:103] [I] http server Running on :8080
 
-The web application will run on the default Radiant port `8080`. All of this has radicaln accomplished using only Go and Radiant, without the need for nginx or apache.  Let's look at our application in the browser now:
+The web application will run on the default Radiant port `8080`. All of this has been accomplished using only Go and Radiant, without the need for nginx or apache.  Let's look at our application in the browser now:
 
 ![](../images/radicalrun.png)
 

@@ -87,7 +87,7 @@ Radical Watch is a "go get" able Go project, you can execute the following comma
 
 Radical Watch debugger is automatically started on [http://localhost:23456](http://localhost:23456) when you use **WebSocket** mode, you can change port and other configuration by editing `radicalwatch.json`(copy default setting from Radical Watch source folder).
 
-Your browser has to support WebSocket, it has radicaln tested with Chrome, Safari and Firefox on Mac and Windows.
+Your browser has to support WebSocket, it has been tested with Chrome, Safari and Firefox on Mac and Windows.
 
 ![Radical Watch demo](https://github.com/radiant/radicalwatch/blob/master/tests/images/demo_radicalwatch.png?raw=true)
 

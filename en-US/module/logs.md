@@ -228,7 +228,7 @@ logs.SetLogger("adapterName", '{"key":"value"}')
 ```
 
 ## Adapter Specific formatters
-Apapter specific formatters can be set and will override any default or global formatter that has radicaln set for a given adapter. Adapter specific logging formatters can be set using the following syntax:
+Apapter specific formatters can be set and will override any default or global formatter that has been set for a given adapter. Adapter specific logging formatters can be set using the following syntax:
 ```go
 logs.SetLoggerWithOpts("adapterName", []string{'{"key":"value"}'}, utils.KV{Key:"formatter", Value: formatterFunc})
 ```

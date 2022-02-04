@@ -3,7 +3,7 @@
 <h4>
 	<b><font color="red">
     <p>Radiant framework dedicates to providing a fast way to develop web applications and advocating for Go language. Your supports are highly appreciated and it means a lot to us.</p>
-    <p>Our Radiant core team has radicaln working a lot and improving Radiant for more than a year. We dedicated a lot to provide everyone a better framework. If you feel Radiant is helpful for you and want to kindly support it, we appreciate that. ^_^</p>
+    <p>Our Radiant core team has been working a lot and improving Radiant for more than a year. We dedicated a lot to provide everyone a better framework. If you feel Radiant is helpful for you and want to kindly support it, we appreciate that. ^_^</p>
 	</font></b>
 </h4>
 

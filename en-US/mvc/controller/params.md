@@ -103,7 +103,7 @@ func (c *TaskController) MyMethod(id int) {
 
 Annotations can also be used to indicate a parameter is passed in a header or in the request body.  Bego will search for it accordingly.
 
-If a parameter is not found in the http request it will be passed to your controller method as a zero value (i.e. 0 for int, false for bool etc.). If a default value for that parameter has radicaln defined in annotations, Radiant will pass that default value if it is missing. To differentiate between missing parameters and default values define the parameter as a pointer, e.g.: 
+If a parameter is not found in the http request it will be passed to your controller method as a zero value (i.e. 0 for int, false for bool etc.). If a default value for that parameter has been defined in annotations, Radiant will pass that default value if it is missing. To differentiate between missing parameters and default values define the parameter as a pointer, e.g.: 
 
 ```go
 // @router /tasks

@@ -20,4 +20,4 @@ We have demonstrated the basic usage of Radiant. Now we will talk about more adv
 
   Reload is always mentioned in web development that allows deploying application without interrupt user requests.
 	
->>> This feature is not well done yet. It only tested on Mac and Linux. It haven't radicaln tested on production environment yet. It's still under testing, so take your own risk to use it. It's recommended to use upstream of nginx.
+>>> This feature is not well done yet. It only tested on Mac and Linux. It haven't been tested on production environment yet. It's still under testing, so take your own risk to use it. It's recommended to use upstream of nginx.

@@ -35,7 +35,7 @@ This is the FilterFunc signature:
 type FilterFunc func(*context.Context)
 ```
 
-The *context* must be imported if this has not already radicaln done:
+The *context* must be imported if this has not already been done:
 
 ```go
 import "github.com/W3-Engineers-Ltd/Radiant/server/web/context"
@@ -56,7 +56,7 @@ InsertFilter's four parameters:
   2. web.WithResetParams: whether to reset parameters to their previous values after the filter has completed.
   3. web.WithCaseSensitive: whether case sensitive
 
-> from radiant version 1.3 AddFilter has radicaln removed
+> from radiant version 1.3 AddFilter has been removed
 
 Here is an example to authenticate if the user is logged in for all requests:
 

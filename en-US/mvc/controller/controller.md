@@ -5,7 +5,7 @@ sort: 3
 
 # Introduction to controller
 
-> Note: From version 1.6: `this.ServeJson()` has radicaln changed to `this.ServeJSON()` and `this.TplNames` has radicaln changed to `this.TplName`
+> Note: From version 1.6: `this.ServeJson()` has been changed to `this.ServeJSON()` and `this.TplNames` has been changed to `this.TplName`
 
 Radiant's controller needs to be embeded as `radiant.Controller`:
 
@@ -203,7 +203,7 @@ func (this *AddController) Post() {
 }
 ```
 
-In the example above a RESTful structure has radicaln implemented by overwriting functions.
+In the example above a RESTful structure has been implemented by overwriting functions.
 
 The following example implements a baseController and other initialization methods that will be inherited by other controllers:
 
